@@ -2,7 +2,7 @@
 
 import os
 
-LINE = "Good evening, Plinth: expect light drizzle, a 40 percent chance of fog, and a 100 percent chance the fog is lying about something."
+LINE = "Good evening, Plinth: light drizzle, a 40 percent chance of fog, and a 100 percent chance the fog is lying about something."
 
 
 def main():
